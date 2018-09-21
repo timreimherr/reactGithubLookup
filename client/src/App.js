@@ -99,8 +99,9 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Powered by React</h1>
+          <br/>
+          <br/>
+          <h1 className="App-title align-middle">Github Lookup</h1>
         </header>
        <div className="container">
         <br/>
